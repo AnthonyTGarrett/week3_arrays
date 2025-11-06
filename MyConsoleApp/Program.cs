@@ -3,6 +3,11 @@
 Console.WriteLine("Provide a sentence and I will capitalize all of the words:");
 string input = Console.ReadLine();
 string cleanedInput = input.Trim();
+if(string.IsNullOrEmpty(cleanedInput))
+{
+  Console.WriteLine("Invalid input: Try again");
+  Environment.Exit(0);
+}
 
 string[] words = cleanedInput.Split(' ');
 Console.Clear();
