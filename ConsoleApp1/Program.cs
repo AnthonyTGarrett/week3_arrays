@@ -5,6 +5,8 @@ string cleanedInput = input.Trim();
 
 string[] words = cleanedInput.Split(' ');
 Console.Clear();
+Console.WriteLine("Here is your capitalized version:");
+Console.Write(">> ");
 
 foreach (string word in words)
 {
