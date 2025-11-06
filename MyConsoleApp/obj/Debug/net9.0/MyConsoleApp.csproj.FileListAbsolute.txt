@@ -1,0 +1,15 @@
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.deps.json
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.runtimeconfig.json
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.dll
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.dll
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\refint\MyConsoleApp.dll
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\tonyg\Documents\dev\week3_arrays\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
