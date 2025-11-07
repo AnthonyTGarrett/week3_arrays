@@ -1,1 +1,1 @@
-# Week 3 Array Work
+# Week 3 Arrays
